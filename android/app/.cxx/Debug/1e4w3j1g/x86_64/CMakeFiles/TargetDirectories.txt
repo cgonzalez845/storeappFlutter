@@ -1,0 +1,2 @@
+C:/Users/ADMIN/Documents/Proyectos/flutter/especializacion_2025/storeapp/android/app/.cxx/Debug/1e4w3j1g/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Documents/Proyectos/flutter/especializacion_2025/storeapp/android/app/.cxx/Debug/1e4w3j1g/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "360063812441",
+    "firebase_url": "https://storeappflu-default-rtdb.firebaseio.com",
+    "project_id": "storeappflu",
+    "storage_bucket": "storeappflu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360063812441:android:4d7d2d3eff621453e60248",
+        "android_client_info": {
+          "package_name": "com.unab.CFGM.storeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGRUjc1-pfOVhOu3q7KznZwrS3mbWrkjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
